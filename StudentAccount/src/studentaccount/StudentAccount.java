@@ -6,8 +6,8 @@ public class StudentAccount {
         
         StudentInfo Student= new StudentInfo ("CITCS","2nd term 2018-2019");
         Student.setID("18-6901-559");
-        Student.setFamilyName("Palawag");
-        Student.setFirstName("Allysa Mae");
+        Student.setFamilyName("PALAWAG");
+        Student.setFirstName("ALLYSA MAE");
         Student.setAcadProg("BSIT");
         Student.setTrack("Web Technologies");
         Student.print();

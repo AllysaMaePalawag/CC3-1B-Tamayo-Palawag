@@ -1,7 +1,7 @@
 package studentaccount;
 
 public class StudentInfo {
-String university;
+        String university;
         String college;
         String term;
         
